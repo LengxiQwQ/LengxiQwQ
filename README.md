@@ -38,7 +38,7 @@ A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on
 
 > **Windows / WinUI 3** · **C# UI** · **C++ media core**
 
-### 🎵 [Playlist Out（歌单导出助手）](https://github.com/LengxiQwQ/playlistout)
+### 🎵 [Playlist Out（把你的歌单带走）](https://github.com/LengxiQwQ/playlistout)
 
 Playlist parser and multi-format exporter for major music platforms, supporting TXT, CSV, Excel, JSON, and more.
 
