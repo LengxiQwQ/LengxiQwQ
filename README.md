@@ -45,7 +45,7 @@ Playlist parser and multi-format exporter for major music platforms, supporting 
 主流音乐平台歌单解析与多格式导出工具，支持 TXT / CSV / Excel / JSON 等格式。
 
 <p>
-  <a href="https://playlistout.com"><img src="https://img.shields.io/badge/Website-playlistout.com-EAA008?style=flat-square" /></a>
+  <a href="https://playlistout.lengxiqwq.com"><img src="https://img.shields.io/badge/Website-playlistout.com-EAA008?style=flat-square" /></a>
   <a href="https://github.com/LengxiQwQ/playlistout/stargazers"><img src="https://img.shields.io/github/stars/LengxiQwQ/playlistout?style=flat-square&label=Stars&color=D97706&logo=github&logoColor=white" /></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react&logoColor=white" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
