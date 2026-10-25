@@ -91,3 +91,7 @@ Playlist parser and multi-format exporter for major music platforms, supporting 
   <img src="https://count.getloli.com/@LengxiQwQ?theme=asoul&padding=7&offset=8&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
   <img src="https://komarev.com/ghpvc/?username=LengxiQwQ" width="0" height="0" alt="" />
 </p>
+
+<p align="center">
+  <sub>Made with ❤️ by <a href="https://github.com/LengxiQwQ">LengxiQwQ</a></sub>
+</p>
