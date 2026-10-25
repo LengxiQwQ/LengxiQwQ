@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=1150&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=52&lines=I%27m+LengxiQwQ+%E2%80%94+student+%26+developer.;Still+learning.+Still+building.;Small+ideas%2C+real+software.;One+rabbit+hole+away+from+another+project.)](https://github.com/LengxiQwQ)
 
+<p align="center">
+  <a href="https://lengxiqwq.com" target="_blank"><img src="https://img.shields.io/badge/Blog-%E5%86%B7%E6%B1%90%E7%9A%84%E6%9D%82%E8%B4%A7%E9%93%BA-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="冷汐的杂货铺" /></a>
+  <a href="https://github.com/LengxiQwQ/live-photo-box"><img src="https://img.shields.io/badge/Project-Live%20Photo%20Box-16A34A?style=flat-square&logo=windows11&logoColor=white" alt="Live Photo Box" /></a>
+  <a href="https://playlistout.com"><img src="https://img.shields.io/badge/Web-Playlist%20Out-EAA008?style=flat-square" alt="Playlist Out" /></a>
+</p>
+
 </div>
 
 ## About Me / 关于我
@@ -17,6 +23,8 @@ Right now, most of my time goes into the low-level refactoring and continued imp
 我喜欢 Windows 开发、开源、游戏和音乐，也经常会把一些日常的小麻烦和奇怪的技术问题，做成普通用户也能轻松上手的软件。
 
 目前，我的大部分精力都放在 **Live Photo Box** 的底层重构和持续完善上。
+
+- 🌐 **个人博客 / 独立站**：[冷汐的杂货铺（lengxiqwq.com）](https://lengxiqwq.com)
 
 ---
 
