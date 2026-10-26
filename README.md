@@ -54,16 +54,28 @@ Playlist parser and multi-format exporter for major music platforms, supporting 
 
 ---
 
+## Contribution Snake / 贡献贪吃蛇
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 冷汐的杂货铺 / LengxiQwQ's Blog
 
 A personal blog documenting code, software engineering, reverse engineering, and daily life.  
 这里是冷汐OωO的杂货铺，记录各种桌面与 Web 工具的折腾过程、逆向避坑与大学生活。
 
 <p>
-  <a href="https://lengxiqwq.com"><img src="https://img.shields.io/badge/冷汐的杂货铺-lengxiqwq.com-58A6FF?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://lengxiqwq.com"><img src="https://img.shields.io/badge/冷汐的杂货铺-lengxiqwq.com-FFA500?style=flat-square&logo=safari&logoColor=white" /></a>
   <a href="https://lengxiqwq.com/dynamic/"><img src="https://img.shields.io/badge/动态-Dynamic-0891b2?style=flat-square" /></a>
   <a href="https://lengxiqwq.com/guestbook/"><img src="https://img.shields.io/badge/留言板-Guestbook-2EA44F?style=flat-square" /></a>
-  <a href="https://lengxiqwq.com/rss/"><img src="https://img.shields.io/badge/RSS-订阅博客-FFA500?style=flat-square&logo=rss&logoColor=white" /></a>
+  <a href="https://lengxiqwq.com/rss/"><img src="https://img.shields.io/badge/RSS-订阅博客-58A6FF?style=flat-square&logo=rss&logoColor=white" /></a>
 </p>
 
 <!-- BLOG-POST-LIST:START -->
@@ -79,16 +91,6 @@ A personal blog documenting code, software engineering, reverse engineering, and
 </p>
 
 ---
-
-## Contribution Snake / 贡献贪吃蛇
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 ## Tools I Actually Use / 常用技术与工具
 
