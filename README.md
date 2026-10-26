@@ -54,6 +54,30 @@ Playlist parser and multi-format exporter for major music platforms, supporting 
 
 ---
 
+## 冷汐的杂货铺 / LengxiQwQ's Blog
+
+A personal blog documenting code, software engineering, reverse engineering, and daily life.  
+这里是冷汐OωO的杂货铺，记录各种桌面与 Web 工具的折腾过程、逆向避坑与大学生活。
+
+<p>
+  <a href="https://lengxiqwq.com"><img src="https://img.shields.io/badge/冷汐的杂货铺-lengxiqwq.com-58A6FF?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://lengxiqwq.com/rss.xml"><img src="https://img.shields.io/badge/RSS-订阅文章-FFA500?style=flat-square&logo=rss&logoColor=white" /></a>
+</p>
+
+<!-- BLOG-POST-LIST:START -->
+- 📝 [评论系统 Twikoo 好多 bug！被迫换成了 Waline](https://lengxiqwq.com/posts/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F-twikoo-%E5%A5%BD%E5%A4%9A-bug%E8%A2%AB%E8%BF%AB%E6%8D%A2%E6%88%90%E4%BA%86-waline/) - `2026-10-22`
+- 📝 [Windows 又逼我重装系统了](https://lengxiqwq.com/posts/windows-%E5%8F%88%E9%80%BC%E6%88%91%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E4%BA%86/) - `2026-10-22`
+- 📝 [我原本真的只想导出一个歌单](https://lengxiqwq.com/posts/%E6%88%91%E5%8E%9F%E6%9C%AC%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%83%B3%E5%AF%BC%E5%87%BA%E4%B8%80%E4%B8%AA%E6%AD%8C%E5%8D%95/) - `2026-10-18`
+- 📝 [我想要的 Windows 输入法切换到底是什么样？](https://lengxiqwq.com/posts/%E6%88%91%E6%83%B3%E8%A6%81%E7%9A%84-windows-%E8%BE%93%E5%85%A5%E6%B3%95%E5%88%87%E6%8D%A2%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7/) - `2026-09-20`
+- 📝 [实况照片到底是什么？为什么换个手机就可能打不开？](https://lengxiqwq.com/posts/%E5%AE%9E%E5%86%B5%E7%85%A7%E7%89%87%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8D%A2%E4%B8%AA%E6%89%8B%E6%9C%BA%E5%B0%B1%E5%8F%AF%E8%83%BD%E6%89%93%E4%B8%8D%E5%BC%80/) - `2026-09-17`
+<!-- BLOG-POST-LIST:END -->
+
+<p align="right">
+  <sub><a href="https://lengxiqwq.com/posts">👉 前往博客阅读更多文章 / View More Posts →</a></sub>
+</p>
+
+---
+
 ## Contribution Snake / 贡献贪吃蛇
 
 <p align="center">

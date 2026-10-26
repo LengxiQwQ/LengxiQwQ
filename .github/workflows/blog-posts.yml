@@ -1,0 +1,31 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    # 每天 UTC 0:00, 12:00（北京时间 08:00, 20:00）自动抓取
+    - cron: "0 0,12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://lengxiqwq.com/rss.xml"
+          max_post_count: 5
+          template: "$newline- 📝 [$title]($url) - `$date`"
+          date_format: "yyyy-mm-dd"
+          commit_message: "chore: update latest blog posts [skip ci]"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
