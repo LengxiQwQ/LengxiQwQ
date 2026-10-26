@@ -64,6 +64,16 @@ Playlist parser and multi-format exporter for major music platforms, supporting 
   </picture>
 </p>
 
+## Tools I Actually Use / 常用技术与工具
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,py,git,githubactions,visualstudio,vscode,windows,linux,flutter,dart,kotlin&perline=13&theme=light" alt="Tools and Languages" />
+</p>
+
+<p align="center">
+  <sub>C# · C++ · .NET · WinUI 3 · Python · Git · GitHub Actions · Visual Studio · VS Code · Windows · Linux · Flutter · Dart · Kotlin</sub>
+</p>
+
 ---
 
 ## 冷汐的杂货铺 / LengxiQwQ's Blog
@@ -91,16 +101,6 @@ A personal blog documenting code, software engineering, reverse engineering, and
 </p>
 
 ---
-
-## Tools I Actually Use / 常用技术与工具
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,py,git,githubactions,visualstudio,vscode,windows,linux,flutter,dart,kotlin&perline=13&theme=light" alt="Tools and Languages" />
-</p>
-
-<p align="center">
-  <sub>C# · C++ · .NET · WinUI 3 · Python · Git · GitHub Actions · Visual Studio · VS Code · Windows · Linux · Flutter · Dart · Kotlin</sub>
-</p>
 
 ## GitHub Stats / GitHub 数据统计
 
