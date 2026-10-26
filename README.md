@@ -61,6 +61,7 @@ A personal blog documenting code, software engineering, reverse engineering, and
 
 <p>
   <a href="https://lengxiqwq.com"><img src="https://img.shields.io/badge/冷汐的杂货铺-lengxiqwq.com-58A6FF?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://lengxiqwq.com/dynamic/"><img src="https://img.shields.io/badge/动态-Dynamic-9333EA?style=flat-square" /></a>
   <a href="https://lengxiqwq.com/guestbook/"><img src="https://img.shields.io/badge/留言板-Guestbook-2EA44F?style=flat-square" /></a>
   <a href="https://lengxiqwq.com/rss/"><img src="https://img.shields.io/badge/RSS-订阅博客-FFA500?style=flat-square&logo=rss&logoColor=white" /></a>
 </p>
