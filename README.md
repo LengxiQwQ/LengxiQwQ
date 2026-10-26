@@ -54,28 +54,6 @@ Playlist parser and multi-format exporter for major music platforms, supporting 
 
 ---
 
-## Contribution Snake / 贡献贪吃蛇
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-## Tools I Actually Use / 常用技术与工具
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,py,git,githubactions,visualstudio,vscode,windows,linux,flutter,dart,kotlin&perline=13&theme=light" alt="Tools and Languages" />
-</p>
-
-<p align="center">
-  <sub>C# · C++ · .NET · WinUI 3 · Python · Git · GitHub Actions · Visual Studio · VS Code · Windows · Linux · Flutter · Dart · Kotlin</sub>
-</p>
-
----
-
 ## 冷汐的杂货铺 / LengxiQwQ's Blog
 
 A personal blog documenting code, software engineering, reverse engineering, and daily life.  
@@ -101,6 +79,26 @@ A personal blog documenting code, software engineering, reverse engineering, and
 </p>
 
 ---
+
+## Contribution Snake / 贡献贪吃蛇
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+## Tools I Actually Use / 常用技术与工具
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,py,git,githubactions,visualstudio,vscode,windows,linux,flutter,dart,kotlin&perline=13&theme=light" alt="Tools and Languages" />
+</p>
+
+<p align="center">
+  <sub>C# · C++ · .NET · WinUI 3 · Python · Git · GitHub Actions · Visual Studio · VS Code · Windows · Linux · Flutter · Dart · Kotlin</sub>
+</p>
 
 ## GitHub Stats / GitHub 数据统计
 
