@@ -57,7 +57,7 @@ Playlist parser and multi-format exporter for major music platforms, supporting 
 ## 冷汐的杂货铺 / LengxiQwQ's Blog
 
 A personal blog documenting code, software engineering, reverse engineering, and daily life.  
-这里是冷汐OωO的杂货铺，记录各种桌面与 Web 工具的折腾过程、逆向避坑与大学生活。
+这里是冷汐的杂货铺，记录各种桌面与 Web 工具的折腾过程、逆向避坑与大学生活。
 
 <p>
   <a href="https://lengxiqwq.com"><img src="https://img.shields.io/badge/冷汐的杂货铺-lengxiqwq.com-FFA500?style=flat-square&logo=safari&logoColor=white" /></a>
