@@ -67,7 +67,7 @@ A personal blog documenting code, software engineering, reverse engineering, and
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- 📝 [茶室点歌台：在博客里一起听歌是怎样实现的](https://lengxiqwq.com/posts/%E8%8C%B6%E5%AE%A4%E7%82%B9%E6%AD%8C%E5%8F%B0%E5%9C%A8%E5%8D%9A%E5%AE%A2%E9%87%8C%E4%B8%80%E8%B5%B7%E5%90%AC%E6%AD%8C%E6%98%AF%E6%80%8E%E6%A0%B7%E5%AE%9E%E7%8E%B0%E7%9A%84/) - `2026-11-23`
+- 📝 [茶室点歌台：在博客里一起听歌是怎样实现的？](https://lengxiqwq.com/posts/%E8%8C%B6%E5%AE%A4%E7%82%B9%E6%AD%8C%E5%8F%B0%E5%9C%A8%E5%8D%9A%E5%AE%A2%E9%87%8C%E4%B8%80%E8%B5%B7%E5%90%AC%E6%AD%8C%E6%98%AF%E6%80%8E%E6%A0%B7%E5%AE%9E%E7%8E%B0%E7%9A%84/) - `2026-11-23`
 - 📝 [博客聊天室终于上线啦！聊聊折磨记录](https://lengxiqwq.com/posts/%E5%8D%9A%E5%AE%A2%E8%81%8A%E5%A4%A9%E5%AE%A4%E4%B8%8A%E7%BA%BF%E4%BA%86%E9%A1%BA%E4%BE%BF%E8%81%8A%E8%81%8A%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/) - `2026-11-23`
 - 📝 [Apple Music Windows 真是拉了坨大的](https://lengxiqwq.com/posts/apple-music-windows-%E7%9C%9F%E6%98%AF%E6%8B%89%E4%BA%86%E5%9D%A8%E5%A4%A7%E7%9A%84/) - `2026-10-30`
 - 📝 [给软件换个图标，怎么比写软件还难？](https://lengxiqwq.com/posts/%E7%BB%99%E8%BD%AF%E4%BB%B6%E6%8D%A2%E4%B8%AA%E5%9B%BE%E6%A0%87%E6%80%8E%E4%B9%88%E6%AF%94%E5%86%99%E8%BD%AF%E4%BB%B6%E8%BF%98%E9%9A%BE/) - `2026-10-26`
